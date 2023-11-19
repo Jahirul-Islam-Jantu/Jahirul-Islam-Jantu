@@ -8,6 +8,7 @@
 - Various Web Applications
 - 📫 How to reach me ...
 - email: jahirulislam001@yahoo.com
+- LinkedIn: www.linkedin.com/in/jahirul-islam-2a4899108
 
 <!---
 Jahirul-Islam-Jantu/Jahirul-Islam-Jantu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
