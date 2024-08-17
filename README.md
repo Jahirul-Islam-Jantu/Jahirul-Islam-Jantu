@@ -16,9 +16,10 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/jahirul-islam-jantu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahirul-islam-jantu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jahirul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jahirul-islam" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23043202/jahirul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jahirul-islam" height="30" width="40" /></a>
 <a href="https://fb.com/jahirul.md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahirul.md" height="30" width="40" /></a>
 <a href="https://instagram.com/unchangedjahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@unchangedjahir" height="30" width="40" /></a>
+<a href="https://x.com/UnchangedJahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@UnchangedJahir" height="30" width="40" /></a>
 </p>
 <br>
 
