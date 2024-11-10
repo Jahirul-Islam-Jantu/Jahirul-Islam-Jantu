@@ -34,7 +34,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jahirul-islam-jantu&" alt="jahirul-islam-jantu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahirul-islam-jantu&" alt="jahirul-islam-jantu" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=jahirul-islam-jantu&show_icons=true&locale=en" alt="jahirul-islam-jantu" /></p>
 
 <br> <br> <br>
